@@ -437,6 +437,8 @@
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
+*   [nekohy/pieces-os](https://github.com/nekohy/pieces-os) -
+
 *   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -548,8 +550,6 @@
 *   [pluto-player/pluto-player](https://github.com/pluto-player/pluto-player) -
 
 *   [hd9211/Tvbox1](https://github.com/hd9211/Tvbox1) -
-
-*   [asdjkl6/tv](https://github.com/asdjkl6/tv) - 复刻和转仓说明出处，请勿商用
 
 ## Batchfile
 
