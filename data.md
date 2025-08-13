@@ -31,8 +31,6 @@
 
 *   [office-sec/AionUi](https://github.com/office-sec/AionUi) - Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!
 
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
-
 *   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -550,6 +548,8 @@
 *   [pluto-player/pluto-player](https://github.com/pluto-player/pluto-player) -
 
 *   [hd9211/Tvbox1](https://github.com/hd9211/Tvbox1) -
+
+*   [asdjkl6/tv](https://github.com/asdjkl6/tv) - 复刻和转仓说明出处，请勿商用
 
 ## Batchfile
 
