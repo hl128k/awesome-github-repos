@@ -27,7 +27,7 @@
 
 ## JavaScript
 
-*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
+*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
 
 *   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
