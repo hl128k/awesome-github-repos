@@ -95,6 +95,8 @@
 
 *   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
 *   [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule) -
 
 *   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
@@ -197,7 +199,7 @@
 
 *   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - All Model Chat 是一款功能强大、支持多模态输入的聊天机器人界面，旨在提供与 Google Gemini API 家族无缝交互的极致体验。它集成了动态模型选择、多模态文件输入、流式响应、全面的聊天历史管理以及广泛的自定义选项，为您带来无与伦比的 AI 互动体验。
 
-*   [office-sec/AionUi](https://github.com/office-sec/AionUi) - Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!
+*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!
 
 *   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
@@ -248,8 +250,6 @@
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 *   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## Lua
 
