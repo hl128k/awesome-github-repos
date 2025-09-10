@@ -27,6 +27,8 @@
 
 ## TypeScript
 
+*   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App
+
 *   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
@@ -72,8 +74,6 @@
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-
-*   [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 
 ## Python
 
@@ -325,6 +325,8 @@
 
 *   [jankiny/hexo-ai-abstract](https://github.com/jankiny/hexo-ai-abstract) - A Hexo plugin to generate AI-based abstracts for your blog posts. Fix hexo-ai-excerpt.
 
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
 *   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
 
 *   [fishjar/kiss-rules](https://github.com/fishjar/kiss-rules) - Ingest and generate subscription rules for \[KISS-Translator]. 收录并生成用于 \[KISS-Translator] 的订阅规则。
@@ -496,8 +498,6 @@
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
 *   [openp2p-cn/openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP\&TCP punch. NAT travelsal, sdwan.(P2P内网穿透，组网，联机)
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) -
 
