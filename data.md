@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Lua](#lua)
 *   [Go](#go)
@@ -24,6 +24,176 @@
 *   [XML](#xml)
 *   [PowerShell](#powershell)
 *   [Dockerfile](#dockerfile)
+
+## JavaScript
+
+*   [samni728/edgetts-cloudflare-workers-webui](https://github.com/samni728/edgetts-cloudflare-workers-webui) - 这是一个部署在 Cloudflare Workers 上的高性能文本转语音（TTS）代理服务。它巧妙地将微软 Edge 强大且自然的语音合成服务，封装成了一个兼容 OpenAI API 格式的接口。这使得开发者可以无缝地将各种现有应用对接到这个免费、高质量的 TTS 服务上。
+
+*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
+
+*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
+
+*   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
+
+*   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+
+*   [ne7359/tvurl](https://github.com/ne7359/tvurl) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
+
+*   [kimwang1978/tvbox](https://github.com/kimwang1978/tvbox) - 自用 （影视仓・TVBOX）
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [fangkuia/XPTV](https://github.com/fangkuia/XPTV) - XPTV简单仓库
+
+*   [img2ipfs/img2ipfs](https://github.com/img2ipfs/img2ipfs) -
+
+*   [jankiny/hexo-ai-abstract](https://github.com/jankiny/hexo-ai-abstract) - A Hexo plugin to generate AI-based abstracts for your blog posts. Fix hexo-ai-excerpt.
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
+
+*   [fishjar/kiss-rules](https://github.com/fishjar/kiss-rules) - Ingest and generate subscription rules for \[KISS-Translator]. 收录并生成用于 \[KISS-Translator] 的订阅规则。
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
+
+*   [cloudflare/cf-webhook-relay](https://github.com/cloudflare/cf-webhook-relay) -
+
+*   [ls125781003/tvboxtg](https://github.com/ls125781003/tvboxtg) -
+
+*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
+
+*   [Shadownc/cloudflare-mirror-site](https://github.com/Shadownc/cloudflare-mirror-site) - google、github...镜像站
+
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
+
+*   [yelochick/deeplx-lb](https://github.com/yelochick/deeplx-lb) -
+
+*   [PizazzGY/TVBox\_warehouse](https://github.com/PizazzGY/TVBox_warehouse) -
+
+*   [hackyjso/TVbox](https://github.com/hackyjso/TVbox) - TVbox配置文件,蜂蜜影视APP，TVBOX，影视仓接口文件
+
+*   [adminouyang/231006](https://github.com/adminouyang/231006) - 主要搜集tvbox配置文件
+
+*   [bestpvp/tm](https://github.com/bestpvp/tm) - 时光机数据源仓库
+
+*   [RaySibay/workers\_proxy\_for\_Google](https://github.com/RaySibay/workers_proxy_for_Google) - 利用cloudflare workers部署谷歌镜像，2022年可用
+
+*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
+
+*   [yurhett/hf-proxy](https://github.com/yurhett/hf-proxy) - A Huggingface proxy deployed on Cloudflare Workers, tailored for Chinese users. 🌐🚀
+
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule) -
+
+*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
+
+*   [lamkan0210/lambox](https://github.com/lamkan0210/lambox) -
+
+*   [xiaomi128/ztv](https://github.com/xiaomi128/ztv) -
+
+*   [hhbbnn/jjm](https://github.com/hhbbnn/jjm) -
+
+*   [jack2583/tvboxx](https://github.com/jack2583/tvboxx) -
+
+*   [lmlmi/xxxx](https://github.com/lmlmi/xxxx) -
+
+*   [Coldnine009/cangku](https://github.com/Coldnine009/cangku) -
+
+*   [zyk445971319/ygbh](https://github.com/zyk445971319/ygbh) -
+
+*   [koy1619/ygbh](https://github.com/koy1619/ygbh) -
+
+*   [80947108/ygbh](https://github.com/80947108/ygbh) -
+
+*   [lyliangyuxuan/-](https://github.com/lyliangyuxuan/-) - tv
+
+*   [jie20091116/cat](https://github.com/jie20091116/cat) - mao
+
+*   [yangxb1/aa](https://github.com/yangxb1/aa) -
+
+*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
+
+*   [cnnbgo/tvbox](https://github.com/cnnbgo/tvbox) - 资料收集于互联网
+
+*   [qiuhlee/tvbox](https://github.com/qiuhlee/tvbox) -
+
+*   [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) -
+
+*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [jessic01/box1](https://github.com/jessic01/box1) -
+
+*   [355789815/tvbox-355789815](https://github.com/355789815/tvbox-355789815) -
+
+*   [niubihu1/tvbox-](https://github.com/niubihu1/tvbox-) -
+
+*   [Nekopazo/tvbox](https://github.com/Nekopazo/tvbox) -
+
+*   [cqzho/hao](https://github.com/cqzho/hao) -
+
+*   [13998394872/TVBox](https://github.com/13998394872/TVBox) -
+
+*   [yyfxz/yyfx](https://github.com/yyfxz/yyfx) - 分享者专属在线单仓1
+
+*   [zhanghong1983/tvboxzy](https://github.com/zhanghong1983/tvboxzy) -
+
+*   [AlanTse1314/c12048700](https://github.com/AlanTse1314/c12048700) -
+
+*   [zxj18/yun](https://github.com/zxj18/yun) -
+
+*   [xinyi1984/xytv](https://github.com/xinyi1984/xytv) -
+
+*   [franksun1211/TXT](https://github.com/franksun1211/TXT) -
+
+*   [cspoh123/tvbox](https://github.com/cspoh123/tvbox) -
+
+*   [hhqqwwjj/-](https://github.com/hhqqwwjj/-) -
+
+*   [qcfree/BOXZY](https://github.com/qcfree/BOXZY) -
+
+*   [fkaf1/TVBox](https://github.com/fkaf1/TVBox) -
+
+*   [tv189ymail/ku2023](https://github.com/tv189ymail/ku2023) -
+
+*   [jyj0912/c120487](https://github.com/jyj0912/c120487) - Biubiu and TVbox code
+
+*   [SSM0415/apptest](https://github.com/SSM0415/apptest) -
+
+*   [ZTHA000/tvbox](https://github.com/ZTHA000/tvbox) -
+
+*   [CandyMuj/ResourceInterface](https://github.com/CandyMuj/ResourceInterface) - 各类资源软件所需的接口，一些资源接口，接口收集    已有：TVBox接口 Legado阅读3.x书源
+
+*   [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
+
+*   [hhqqwwjj/tvb1](https://github.com/hhqqwwjj/tvb1) -
+
+*   [PizazzGY/TVBox](https://github.com/PizazzGY/TVBox) -
+
+*   [xiongjian83/TvBox](https://github.com/xiongjian83/TvBox) - TvBox
+
+*   [li5bo5/TVBox](https://github.com/li5bo5/TVBox) -
+
+*   [c120487/00](https://github.com/c120487/00) - Peter and his friends
+
+*   [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS.
+
+*   [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+
+*   [tuji-2015/miao](https://github.com/tuji-2015/miao) - miaotv
 
 ## TypeScript
 
@@ -72,8 +242,6 @@
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 ## Python
 
@@ -294,174 +462,6 @@
 *   [ilxp/koolproxy](https://github.com/ilxp/koolproxy) -
 
 *   [anaer/Meow](https://github.com/anaer/Meow) - 自用tvbox配置
-
-## JavaScript
-
-*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
-
-*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
-
-*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
-
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
-
-*   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
-
-*   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
-
-*   [ne7359/tvurl](https://github.com/ne7359/tvurl) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-
-*   [kimwang1978/tvbox](https://github.com/kimwang1978/tvbox) - 自用 （影视仓・TVBOX）
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [fangkuia/XPTV](https://github.com/fangkuia/XPTV) - XPTV简单仓库
-
-*   [img2ipfs/img2ipfs](https://github.com/img2ipfs/img2ipfs) -
-
-*   [jankiny/hexo-ai-abstract](https://github.com/jankiny/hexo-ai-abstract) - A Hexo plugin to generate AI-based abstracts for your blog posts. Fix hexo-ai-excerpt.
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
-
-*   [fishjar/kiss-rules](https://github.com/fishjar/kiss-rules) - Ingest and generate subscription rules for \[KISS-Translator]. 收录并生成用于 \[KISS-Translator] 的订阅规则。
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
-
-*   [cloudflare/cf-webhook-relay](https://github.com/cloudflare/cf-webhook-relay) -
-
-*   [ls125781003/tvboxtg](https://github.com/ls125781003/tvboxtg) -
-
-*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-
-*   [Shadownc/cloudflare-mirror-site](https://github.com/Shadownc/cloudflare-mirror-site) - google、github...镜像站
-
-*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
-
-*   [yelochick/deeplx-lb](https://github.com/yelochick/deeplx-lb) -
-
-*   [PizazzGY/TVBox\_warehouse](https://github.com/PizazzGY/TVBox_warehouse) -
-
-*   [hackyjso/TVbox](https://github.com/hackyjso/TVbox) - TVbox配置文件,蜂蜜影视APP，TVBOX，影视仓接口文件
-
-*   [adminouyang/231006](https://github.com/adminouyang/231006) - 主要搜集tvbox配置文件
-
-*   [bestpvp/tm](https://github.com/bestpvp/tm) - 时光机数据源仓库
-
-*   [RaySibay/workers\_proxy\_for\_Google](https://github.com/RaySibay/workers_proxy_for_Google) - 利用cloudflare workers部署谷歌镜像，2022年可用
-
-*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
-
-*   [yurhett/hf-proxy](https://github.com/yurhett/hf-proxy) - A Huggingface proxy deployed on Cloudflare Workers, tailored for Chinese users. 🌐🚀
-
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule) -
-
-*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
-
-*   [lamkan0210/lambox](https://github.com/lamkan0210/lambox) -
-
-*   [xiaomi128/ztv](https://github.com/xiaomi128/ztv) -
-
-*   [hhbbnn/jjm](https://github.com/hhbbnn/jjm) -
-
-*   [jack2583/tvboxx](https://github.com/jack2583/tvboxx) -
-
-*   [lmlmi/xxxx](https://github.com/lmlmi/xxxx) -
-
-*   [Coldnine009/cangku](https://github.com/Coldnine009/cangku) -
-
-*   [zyk445971319/ygbh](https://github.com/zyk445971319/ygbh) -
-
-*   [koy1619/ygbh](https://github.com/koy1619/ygbh) -
-
-*   [80947108/ygbh](https://github.com/80947108/ygbh) -
-
-*   [lyliangyuxuan/-](https://github.com/lyliangyuxuan/-) - tv
-
-*   [jie20091116/cat](https://github.com/jie20091116/cat) - mao
-
-*   [yangxb1/aa](https://github.com/yangxb1/aa) -
-
-*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
-
-*   [cnnbgo/tvbox](https://github.com/cnnbgo/tvbox) - 资料收集于互联网
-
-*   [qiuhlee/tvbox](https://github.com/qiuhlee/tvbox) -
-
-*   [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) -
-
-*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [jessic01/box1](https://github.com/jessic01/box1) -
-
-*   [355789815/tvbox-355789815](https://github.com/355789815/tvbox-355789815) -
-
-*   [niubihu1/tvbox-](https://github.com/niubihu1/tvbox-) -
-
-*   [Nekopazo/tvbox](https://github.com/Nekopazo/tvbox) -
-
-*   [cqzho/hao](https://github.com/cqzho/hao) -
-
-*   [13998394872/TVBox](https://github.com/13998394872/TVBox) -
-
-*   [yyfxz/yyfx](https://github.com/yyfxz/yyfx) - 分享者专属在线单仓1
-
-*   [zhanghong1983/tvboxzy](https://github.com/zhanghong1983/tvboxzy) -
-
-*   [AlanTse1314/c12048700](https://github.com/AlanTse1314/c12048700) -
-
-*   [zxj18/yun](https://github.com/zxj18/yun) -
-
-*   [xinyi1984/xytv](https://github.com/xinyi1984/xytv) -
-
-*   [franksun1211/TXT](https://github.com/franksun1211/TXT) -
-
-*   [cspoh123/tvbox](https://github.com/cspoh123/tvbox) -
-
-*   [hhqqwwjj/-](https://github.com/hhqqwwjj/-) -
-
-*   [qcfree/BOXZY](https://github.com/qcfree/BOXZY) -
-
-*   [fkaf1/TVBox](https://github.com/fkaf1/TVBox) -
-
-*   [tv189ymail/ku2023](https://github.com/tv189ymail/ku2023) -
-
-*   [jyj0912/c120487](https://github.com/jyj0912/c120487) - Biubiu and TVbox code
-
-*   [SSM0415/apptest](https://github.com/SSM0415/apptest) -
-
-*   [ZTHA000/tvbox](https://github.com/ZTHA000/tvbox) -
-
-*   [CandyMuj/ResourceInterface](https://github.com/CandyMuj/ResourceInterface) - 各类资源软件所需的接口，一些资源接口，接口收集    已有：TVBox接口 Legado阅读3.x书源
-
-*   [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
-
-*   [hhqqwwjj/tvb1](https://github.com/hhqqwwjj/tvb1) -
-
-*   [PizazzGY/TVBox](https://github.com/PizazzGY/TVBox) -
-
-*   [xiongjian83/TvBox](https://github.com/xiongjian83/TvBox) - TvBox
-
-*   [li5bo5/TVBox](https://github.com/li5bo5/TVBox) -
-
-*   [c120487/00](https://github.com/c120487/00) - Peter and his friends
-
-*   [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS.
-
-*   [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-
-*   [tuji-2015/miao](https://github.com/tuji-2015/miao) - miaotv
 
 ## Rust
 
