@@ -527,7 +527,7 @@
 
 *   [llazyl/TVBox](https://github.com/llazyl/TVBox) -
 
-*   [makunet/maku-boot](https://github.com/makunet/maku-boot) - 采用SpringBoot3.4、SpringSecurity6.4、Mybatis-Plus、Vue3、Element-plus等技术开发的低代码开发平台，旨在为开发者提供一个简单、高效、可扩展的低代码开发平台。使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。
+*   [makunet/maku-boot](https://github.com/makunet/maku-boot) - 采用SpringBoot3.5、SpringSecurity6.5、Mybatis-Plus、Vue3、Element-plus等技术开发的低代码开发平台，旨在为开发者提供一个简单、高效、可扩展的低代码开发平台。使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。
 
 *   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 
