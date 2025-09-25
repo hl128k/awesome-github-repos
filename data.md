@@ -193,8 +193,6 @@
 
 *   [Nekopazo/tvbox](https://github.com/Nekopazo/tvbox) -
 
-*   [cqzho/hao](https://github.com/cqzho/hao) -
-
 *   [13998394872/TVBox](https://github.com/13998394872/TVBox) -
 
 *   [yyfxz/yyfx](https://github.com/yyfxz/yyfx) - 分享者专属在线单仓1
@@ -426,6 +424,8 @@
 *   [Chenzhusheng01/tvbox](https://github.com/Chenzhusheng01/tvbox) - TV
 
 *   [newenergy2000/TVBox](https://github.com/newenergy2000/TVBox) -
+
+*   [cqzho/hao](https://github.com/cqzho/hao) -
 
 *   [lllyin/assets](https://github.com/lllyin/assets) -
 
