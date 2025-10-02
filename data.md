@@ -241,8 +241,6 @@
 
 *   [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 
-*   [tuji-2015/miao](https://github.com/tuji-2015/miao) - miaotv
-
 ## Python
 
 *   [Rain-Of-Stars/AI-IDE-Auto-Run](https://github.com/Rain-Of-Stars/AI-IDE-Auto-Run) - 解决AI IDE的自动确认任务，trae ide的“继续”、windsurf的“run”、codex的“Approve”等，用户可自定义
@@ -620,6 +618,8 @@
 *   [jiyi039/jiyi039.github.io](https://github.com/jiyi039/jiyi039.github.io) -
 
 *   [pcrock88/pcrock88.github.io](https://github.com/pcrock88/pcrock88.github.io) -
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 
 ## Vue
 
