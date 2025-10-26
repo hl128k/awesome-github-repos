@@ -37,7 +37,7 @@
 
 *   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - All Model Chat 是一款功能强大、支持多模态输入的聊天机器人界面，旨在提供与 Google Gemini API 家族无缝交互的极致体验。它集成了动态模型选择、多模态文件输入、流式响应、全面的聊天历史管理以及广泛的自定义选项，为您带来无与伦比的 AI 互动体验。
 
-*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI,  multi-agent support, multi-LLMs & apikey polling, Workspace Management, AI image editing & more | 🌟 Star if you like it!
+*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI,  Multi-agent, Multi-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more | 🌟 Star if you like it!
 
 *   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
