@@ -47,7 +47,7 @@
 
 *   [jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 *   [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
 
@@ -74,6 +74,8 @@
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 ## JavaScript
 
@@ -262,8 +264,6 @@
 *   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 
 *   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
-
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 *   [qq5460168/666](https://github.com/qq5460168/666) - 适用于AdGuard、Qx  Hosts Clash  SingBox Shadowrocket Invizible  AdClose的去广告规则
 
