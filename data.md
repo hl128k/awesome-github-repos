@@ -131,7 +131,7 @@
 
 *   [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 
-*   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App
+*   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 
 *   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 
@@ -174,6 +174,8 @@
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 ## JavaScript
 
@@ -616,8 +618,6 @@
 *   [ncnc8388/ncnc8388.github.io](https://github.com/ncnc8388/ncnc8388.github.io) -
 
 *   [jiyi039/jiyi039.github.io](https://github.com/jiyi039/jiyi039.github.io) -
-
-*   [pcrock88/pcrock88.github.io](https://github.com/pcrock88/pcrock88.github.io) -
 
 *   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 
