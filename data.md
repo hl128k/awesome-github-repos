@@ -177,6 +177,8 @@
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
+*   [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
+
 ## JavaScript
 
 *   [samni728/edgetts-cloudflare-workers-webui](https://github.com/samni728/edgetts-cloudflare-workers-webui) - 这是一个部署在 Cloudflare Workers 上的高性能文本转语音（TTS）代理服务。它巧妙地将微软 Edge 强大且自然的语音合成服务，封装成了一个兼容 OpenAI API 格式的接口。这使得开发者可以无缝地将各种现有应用对接到这个免费、高质量的 TTS 服务上。
@@ -402,8 +404,6 @@
 *   [tlswch/2008tsw-ToxH](https://github.com/tlswch/2008tsw-ToxH) -
 
 *   [viptvbox/tvbox](https://github.com/viptvbox/tvbox) - tvbox
-
-*   [letuplus/iTV](https://github.com/letuplus/iTV) -
 
 *   [yschaizhen/xian](https://github.com/yschaizhen/xian) -
 
