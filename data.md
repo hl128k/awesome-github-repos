@@ -14,6 +14,7 @@
 *   [Batchfile](#batchfile)
 *   [Shell](#shell)
 *   [C](#c)
+*   [Svelte](#svelte)
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [HTML](#html)
@@ -327,8 +328,6 @@
 
 *   [kimwang1978/tvbox](https://github.com/kimwang1978/tvbox) - 自用 （影视仓・TVBOX）
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
 *   [fangkuia/XPTV](https://github.com/fangkuia/XPTV) - XPTV简单仓库
 
 *   [img2ipfs/img2ipfs](https://github.com/img2ipfs/img2ipfs) -
@@ -582,6 +581,10 @@
 *   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 
 *   [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
+
+## Svelte
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Dart
 
