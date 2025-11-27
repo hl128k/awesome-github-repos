@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -12,7 +13,6 @@
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
-*   [Shell](#shell)
 *   [C](#c)
 *   [Svelte](#svelte)
 *   [Dart](#dart)
@@ -24,7 +24,20 @@
 *   [PHP](#php)
 *   [XML](#xml)
 *   [PowerShell](#powershell)
-*   [Dockerfile](#dockerfile)
+
+## Shell
+
+*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
+
+*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
+
+*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+
+*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
+
+*   [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
+
+*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 
 ## miscellaneous
 
@@ -560,18 +573,6 @@
 
 *   [FongMi/Release](https://github.com/FongMi/Release) -
 
-## Shell
-
-*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
-
-*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
-
-*   [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
-
-*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
-
 ## C
 
 *   [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
@@ -667,7 +668,3 @@
 ## PowerShell
 
 *   [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
-
-## Dockerfile
-
-*   [tum-gis/cesium-terrain-builder-docker](https://github.com/tum-gis/cesium-terrain-builder-docker) - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
