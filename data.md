@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Lua](#lua)
 *   [Go](#go)
@@ -25,297 +25,9 @@
 *   [XML](#xml)
 *   [PowerShell](#powershell)
 
-## Shell
-
-*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
-
-*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
-
-*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
-
-*   [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
-
-*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
-
-## miscellaneous
-
-*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
-
-*   [inveta/PeerStreamEnterprise](https://github.com/inveta/PeerStreamEnterprise) - inveta团队打造的企业级管理平台，帮助大家用好云渲染。
-
-*   [Kana3234/sukaka-gcli2api](https://github.com/Kana3234/sukaka-gcli2api) -
-
-*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
-
-*   [TTDNS/Cat](https://github.com/TTDNS/Cat) - 个人维护的拦截规则
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
-*   [nekohy/pieces-os](https://github.com/nekohy/pieces-os) -
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
-
-*   [owen2000wy/owentv](https://github.com/owen2000wy/owentv) - owentv, more stable, more fun.
-
-*   [mraniki/tv](https://github.com/mraniki/tv) - Automate IPTV
-
-*   [gyfandzd/gyf](https://github.com/gyfandzd/gyf) -
-
-*   [huangziyu100224/TV](https://github.com/huangziyu100224/TV) -
-
-*   [Young0417/TVAPI](https://github.com/Young0417/TVAPI) - 自用影视接口
-
-*   [kfwdxy/livey](https://github.com/kfwdxy/livey) -
-
-*   [jilin2cn/TV](https://github.com/jilin2cn/TV) -
-
-*   [swbqm/dyvipyyds](https://github.com/swbqm/dyvipyyds) -
-
-*   [swhtv/111](https://github.com/swhtv/111) -
-
-*   [yrr1833/tvbox](https://github.com/yrr1833/tvbox) -
-
-*   [q2564063/tvbox\_source](https://github.com/q2564063/tvbox_source) -
-
-*   [ki1300/TVBOX](https://github.com/ki1300/TVBOX) - TV
-
-*   [Ever52/1](https://github.com/Ever52/1) -
-
-*   [fireh1974/TVBoxcang](https://github.com/fireh1974/TVBoxcang) -
-
-*   [XuQqu/PinkBird](https://github.com/XuQqu/PinkBird) - TMBox修改版PinkBird盒子专用源
-
-*   [mmtekamu/tvbox](https://github.com/mmtekamu/tvbox) -
-
-*   [kjsc0310/tvy](https://github.com/kjsc0310/tvy) -
-
-*   [tlswch/2008tsw-ToxH](https://github.com/tlswch/2008tsw-ToxH) -
-
-*   [viptvbox/tvbox](https://github.com/viptvbox/tvbox) - tvbox
-
-*   [yschaizhen/xian](https://github.com/yschaizhen/xian) -
-
-*   [yschaizhen/tvbox](https://github.com/yschaizhen/tvbox) -
-
-*   [yyfxz/fl](https://github.com/yyfxz/fl) - 福利
-
-*   [dalazhi/tvbox](https://github.com/dalazhi/tvbox) -
-
-*   [Emder-0311/tvbox\_api](https://github.com/Emder-0311/tvbox_api) - aaaa
-
-*   [lishuncai123789/shunzi](https://github.com/lishuncai123789/shunzi) - TVbox链接
-
-*   [wertymarry/tvbox](https://github.com/wertymarry/tvbox) -
-
-*   [scovis/TVBox](https://github.com/scovis/TVBox) - 一个开源无广告的TVBox源，一个仓库全搞定。
-
-*   [Chenzhusheng01/tvbox](https://github.com/Chenzhusheng01/tvbox) - TV
-
-*   [newenergy2000/TVBox](https://github.com/newenergy2000/TVBox) -
-
-*   [cqzho/hao](https://github.com/cqzho/hao) -
-
-*   [lllyin/assets](https://github.com/lllyin/assets) -
-
-*   [wei790101/box](https://github.com/wei790101/box) -
-
-*   [mcp2016/TVBox](https://github.com/mcp2016/TVBox) - 自用请勿宣传！！！
-
-*   [Grovin720/My](https://github.com/Grovin720/My) -
-
-*   [qiqiqi8898/tvbox](https://github.com/qiqiqi8898/tvbox) -
-
-*   [kjxhb/TVBox1](https://github.com/kjxhb/TVBox1) -
-
-*   [fkaf1/fk](https://github.com/fkaf1/fk) -
-
-*   [wxwxwz/YGBH](https://github.com/wxwxwz/YGBH) - 月光宝盒源
-
-*   [888huge/TV](https://github.com/888huge/TV) -
-
-*   [yan91220/TVBox](https://github.com/yan91220/TVBox) -
-
-*   [bluefriendCN/set](https://github.com/bluefriendCN/set) - onlineset
-
-*   [lexzd/fuli](https://github.com/lexzd/fuli) -
-
-*   [shiran588/m3u](https://github.com/shiran588/m3u) -
-
-*   [byteshijinn/tvbox](https://github.com/byteshijinn/tvbox) -
-
-*   [Demonhesusheng/tvbox](https://github.com/Demonhesusheng/tvbox) - tvbox interface
-
-*   [erichua/tvbox](https://github.com/erichua/tvbox) - tvbox live source
-
-*   [ltxxjs/box2022-1](https://github.com/ltxxjs/box2022-1) -
-
-*   [ilxp/koolproxy](https://github.com/ilxp/koolproxy) -
-
-## Python
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [lazygophers/roo](https://github.com/lazygophers/roo) -
-
-*   [Rain-Of-Stars/AI-IDE-Auto-Run](https://github.com/Rain-Of-Stars/AI-IDE-Auto-Run) - 解决AI IDE的自动确认任务，trae ide的“继续”、windsurf的“run”、codex的“Approve”等，用户可自定义
-
-*   [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
-
-*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-
-*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
-
-*   [fish2018/tvbox](https://github.com/fish2018/tvbox) - tvbox影视仓在线接口私有化工具，将接口json和jar等保存到自己的git仓库
-
-*   [boca1624/day-code](https://github.com/boca1624/day-code) -
-
-*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
-
-*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
-
-*   [qq5460168/666](https://github.com/qq5460168/666) - 适用于AdGuard、Qx  Hosts Clash  SingBox Shadowrocket Invizible  AdClose的去广告规则
-
-*   [cnwikee/CheckTMDB](https://github.com/cnwikee/CheckTMDB) - 每日自动更新TMDB，themoviedb 国内可正常连接IP，解决DNS污染，供tinyMediaManager(TMM削刮器)、kodi削刮等正常削刮影片信息。
-
-*   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
-
-*   [ANGLE404/cursor-0.45.x-id-](https://github.com/ANGLE404/cursor-0.45.x-id-) - cursor ID 0.45.x 重置工具开源声明
-
-*   [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) - Expose your TCP/UDP port behind full-cone NAT to the Internet.
-
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-
-*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [WowYiJiu/Linux.do-KeepAlive](https://github.com/WowYiJiu/Linux.do-KeepAlive) -
-
-*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
-
-*   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
-
-*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
-
-*   [GameAutoScript/collectSub](https://github.com/GameAutoScript/collectSub) -
-
-*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
-
-*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [xiaozhou26/serch\_deeplx](https://github.com/xiaozhou26/serch_deeplx) -
-
-*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
-
-*   [loopool/fan](https://github.com/loopool/fan) - tvbox接口
-
-*   [yangxiaoge/tvbox\_cust](https://github.com/yangxiaoge/tvbox_cust) - 仅自用，有问题概不负责⚠️📢
-
-*   [alantang1977/X](https://github.com/alantang1977/X) - 如果喜欢，请点亮右上角星星，如有侵权请反馈！谢谢！免责声明：📛本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负
-
-*   [ChenXinBest/hosts\_check](https://github.com/ChenXinBest/hosts_check) - 解析tmdb hosts，防止dns污染
-
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-
-*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
-*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
-
-*   [Supprise0901/TVBox\_live](https://github.com/Supprise0901/TVBox_live) - 直播源检索、测速、优选
-
-*   [yh7072/ttvv](https://github.com/yh7072/ttvv) -
-
-*   [tlswch/13800\_MHQTV](https://github.com/tlswch/13800_MHQTV) -
-
-*   [tlswch/kuku\_kot](https://github.com/tlswch/kuku_kot) -
-
-*   [xiaoxuwenzi/TV-json.github.io](https://github.com/xiaoxuwenzi/TV-json.github.io) -
-
-*   [xibao999/x](https://github.com/xibao999/x) -
-
-*   [jigedos/geekcomputers](https://github.com/jigedos/geekcomputers) -
-
-*   [Reflyer823/tvbox-config](https://github.com/Reflyer823/tvbox-config) -
-
-*   [w-aiguo/tvbox](https://github.com/w-aiguo/tvbox) -
-
-*   [ifkid/Free-TVUrl](https://github.com/ifkid/Free-TVUrl) -
-
-*   [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-*   [DeEpinGh0st/JetbrainsServerFinder](https://github.com/DeEpinGh0st/JetbrainsServerFinder) - 一个利用Shodan搜索引擎查询Jetbrains系列产品激活服务器的网页端工具
-
-## TypeScript
-
-*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
-
-*   [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
-
-*   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
-
-*   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-
-*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
-
-*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, and more — Enhanced Chat UI, WebUI, Multi-Agent & Multi-LLM, MCP Integration | 🌟 Star if you like it!
-
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-
-*   [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [Adpro-Team/GKD\_THS\_List](https://github.com/Adpro-Team/GKD_THS_List) - GKD第三方订阅收录名单
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-
-*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-
-*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
 ## JavaScript
+
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly \[商店版本 1.2.1，最新版本 1.3.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
 
 *   [inveta/peer-stream](https://github.com/inveta/peer-stream) - Lightweight WebRTC SDK  for UnrealEngine's PixelStreaming
 
@@ -478,6 +190,294 @@
 *   [c120487/00](https://github.com/c120487/00) - Peter and his friends
 
 *   [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+
+## Python
+
+*   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 多账号每日签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [lazygophers/roo](https://github.com/lazygophers/roo) -
+
+*   [Rain-Of-Stars/AI-IDE-Auto-Run](https://github.com/Rain-Of-Stars/AI-IDE-Auto-Run) - 解决AI IDE的自动确认任务，trae ide的“继续”、windsurf的“run”、codex的“Approve”等，用户可自定义
+
+*   [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+
+*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
+
+*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
+
+*   [fish2018/tvbox](https://github.com/fish2018/tvbox) - tvbox影视仓在线接口私有化工具，将接口json和jar等保存到自己的git仓库
+
+*   [boca1624/day-code](https://github.com/boca1624/day-code) -
+
+*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+
+*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
+
+*   [qq5460168/666](https://github.com/qq5460168/666) - 适用于AdGuard、Qx  Hosts Clash  SingBox Shadowrocket Invizible  AdClose的去广告规则
+
+*   [cnwikee/CheckTMDB](https://github.com/cnwikee/CheckTMDB) - 每日自动更新TMDB，themoviedb 国内可正常连接IP，解决DNS污染，供tinyMediaManager(TMM削刮器)、kodi削刮等正常削刮影片信息。
+
+*   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
+
+*   [ANGLE404/cursor-0.45.x-id-](https://github.com/ANGLE404/cursor-0.45.x-id-) - cursor ID 0.45.x 重置工具开源声明
+
+*   [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) - Expose your TCP/UDP port behind full-cone NAT to the Internet.
+
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+
+*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [WowYiJiu/Linux.do-KeepAlive](https://github.com/WowYiJiu/Linux.do-KeepAlive) -
+
+*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+
+*   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
+
+*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
+
+*   [GameAutoScript/collectSub](https://github.com/GameAutoScript/collectSub) -
+
+*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+
+*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [xiaozhou26/serch\_deeplx](https://github.com/xiaozhou26/serch_deeplx) -
+
+*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
+
+*   [loopool/fan](https://github.com/loopool/fan) - tvbox接口
+
+*   [yangxiaoge/tvbox\_cust](https://github.com/yangxiaoge/tvbox_cust) - 仅自用，有问题概不负责⚠️📢
+
+*   [alantang1977/X](https://github.com/alantang1977/X) - 如果喜欢，请点亮右上角星星，如有侵权请反馈！谢谢！免责声明：📛本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负
+
+*   [ChenXinBest/hosts\_check](https://github.com/ChenXinBest/hosts_check) - 解析tmdb hosts，防止dns污染
+
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+
+*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
+
+*   [Supprise0901/TVBox\_live](https://github.com/Supprise0901/TVBox_live) - 直播源检索、测速、优选
+
+*   [yh7072/ttvv](https://github.com/yh7072/ttvv) -
+
+*   [tlswch/13800\_MHQTV](https://github.com/tlswch/13800_MHQTV) -
+
+*   [tlswch/kuku\_kot](https://github.com/tlswch/kuku_kot) -
+
+*   [xiaoxuwenzi/TV-json.github.io](https://github.com/xiaoxuwenzi/TV-json.github.io) -
+
+*   [xibao999/x](https://github.com/xibao999/x) -
+
+*   [jigedos/geekcomputers](https://github.com/jigedos/geekcomputers) -
+
+*   [Reflyer823/tvbox-config](https://github.com/Reflyer823/tvbox-config) -
+
+*   [w-aiguo/tvbox](https://github.com/w-aiguo/tvbox) -
+
+*   [ifkid/Free-TVUrl](https://github.com/ifkid/Free-TVUrl) -
+
+*   [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+## Shell
+
+*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
+
+*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
+
+*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+
+*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
+
+*   [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
+
+*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+
+## miscellaneous
+
+*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+
+*   [inveta/PeerStreamEnterprise](https://github.com/inveta/PeerStreamEnterprise) - inveta团队打造的企业级管理平台，帮助大家用好云渲染。
+
+*   [Kana3234/sukaka-gcli2api](https://github.com/Kana3234/sukaka-gcli2api) -
+
+*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
+
+*   [TTDNS/Cat](https://github.com/TTDNS/Cat) - 个人维护的拦截规则
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+
+*   [nekohy/pieces-os](https://github.com/nekohy/pieces-os) -
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
+
+*   [owen2000wy/owentv](https://github.com/owen2000wy/owentv) - owentv, more stable, more fun.
+
+*   [mraniki/tv](https://github.com/mraniki/tv) - Automate IPTV
+
+*   [gyfandzd/gyf](https://github.com/gyfandzd/gyf) -
+
+*   [huangziyu100224/TV](https://github.com/huangziyu100224/TV) -
+
+*   [Young0417/TVAPI](https://github.com/Young0417/TVAPI) - 自用影视接口
+
+*   [kfwdxy/livey](https://github.com/kfwdxy/livey) -
+
+*   [jilin2cn/TV](https://github.com/jilin2cn/TV) -
+
+*   [swbqm/dyvipyyds](https://github.com/swbqm/dyvipyyds) -
+
+*   [swhtv/111](https://github.com/swhtv/111) -
+
+*   [yrr1833/tvbox](https://github.com/yrr1833/tvbox) -
+
+*   [q2564063/tvbox\_source](https://github.com/q2564063/tvbox_source) -
+
+*   [ki1300/TVBOX](https://github.com/ki1300/TVBOX) - TV
+
+*   [Ever52/1](https://github.com/Ever52/1) -
+
+*   [fireh1974/TVBoxcang](https://github.com/fireh1974/TVBoxcang) -
+
+*   [XuQqu/PinkBird](https://github.com/XuQqu/PinkBird) - TMBox修改版PinkBird盒子专用源
+
+*   [mmtekamu/tvbox](https://github.com/mmtekamu/tvbox) -
+
+*   [kjsc0310/tvy](https://github.com/kjsc0310/tvy) -
+
+*   [tlswch/2008tsw-ToxH](https://github.com/tlswch/2008tsw-ToxH) -
+
+*   [viptvbox/tvbox](https://github.com/viptvbox/tvbox) - tvbox
+
+*   [yschaizhen/xian](https://github.com/yschaizhen/xian) -
+
+*   [yschaizhen/tvbox](https://github.com/yschaizhen/tvbox) -
+
+*   [yyfxz/fl](https://github.com/yyfxz/fl) - 福利
+
+*   [dalazhi/tvbox](https://github.com/dalazhi/tvbox) -
+
+*   [Emder-0311/tvbox\_api](https://github.com/Emder-0311/tvbox_api) - aaaa
+
+*   [lishuncai123789/shunzi](https://github.com/lishuncai123789/shunzi) - TVbox链接
+
+*   [wertymarry/tvbox](https://github.com/wertymarry/tvbox) -
+
+*   [scovis/TVBox](https://github.com/scovis/TVBox) - 一个开源无广告的TVBox源，一个仓库全搞定。
+
+*   [Chenzhusheng01/tvbox](https://github.com/Chenzhusheng01/tvbox) - TV
+
+*   [newenergy2000/TVBox](https://github.com/newenergy2000/TVBox) -
+
+*   [cqzho/hao](https://github.com/cqzho/hao) -
+
+*   [lllyin/assets](https://github.com/lllyin/assets) -
+
+*   [wei790101/box](https://github.com/wei790101/box) -
+
+*   [mcp2016/TVBox](https://github.com/mcp2016/TVBox) - 自用请勿宣传！！！
+
+*   [Grovin720/My](https://github.com/Grovin720/My) -
+
+*   [qiqiqi8898/tvbox](https://github.com/qiqiqi8898/tvbox) -
+
+*   [kjxhb/TVBox1](https://github.com/kjxhb/TVBox1) -
+
+*   [fkaf1/fk](https://github.com/fkaf1/fk) -
+
+*   [wxwxwz/YGBH](https://github.com/wxwxwz/YGBH) - 月光宝盒源
+
+*   [888huge/TV](https://github.com/888huge/TV) -
+
+*   [yan91220/TVBox](https://github.com/yan91220/TVBox) -
+
+*   [bluefriendCN/set](https://github.com/bluefriendCN/set) - onlineset
+
+*   [lexzd/fuli](https://github.com/lexzd/fuli) -
+
+*   [shiran588/m3u](https://github.com/shiran588/m3u) -
+
+*   [byteshijinn/tvbox](https://github.com/byteshijinn/tvbox) -
+
+*   [Demonhesusheng/tvbox](https://github.com/Demonhesusheng/tvbox) - tvbox interface
+
+*   [erichua/tvbox](https://github.com/erichua/tvbox) - tvbox live source
+
+*   [ltxxjs/box2022-1](https://github.com/ltxxjs/box2022-1) -
+
+*   [ilxp/koolproxy](https://github.com/ilxp/koolproxy) -
+
+## TypeScript
+
+*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
+
+*   [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
+
+*   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
+
+*   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
+*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
+
+*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, and more — Enhanced Chat UI, WebUI, Multi-Agent & Multi-LLM, MCP Integration | 🌟 Star if you like it!
+
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+*   [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [Adpro-Team/GKD\_THS\_List](https://github.com/Adpro-Team/GKD_THS_List) - GKD第三方订阅收录名单
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+
+*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+
+*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 ## Rust
 
