@@ -27,7 +27,7 @@
 
 ## JavaScript
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly \[商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[建议统一走商店安装，本地安装后续不好同步更新]
 
 *   [inveta/peer-stream](https://github.com/inveta/peer-stream) - Lightweight WebRTC SDK  for UnrealEngine's PixelStreaming
 
@@ -193,7 +193,7 @@
 
 ## Python
 
-*   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 多账号每日签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到
+*   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 多账号每日签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
