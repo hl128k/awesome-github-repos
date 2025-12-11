@@ -389,7 +389,7 @@
 
 *   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
 
-*   [TTDNS/Cat](https://github.com/TTDNS/Cat) - 个人维护的拦截规则
+*   [A2O-A1/Cat](https://github.com/A2O-A1/Cat) - 个人维护的拦截规则
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
