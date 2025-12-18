@@ -97,7 +97,7 @@
 
 *   [yurhett/hf-proxy](https://github.com/yurhett/hf-proxy) - A Huggingface proxy deployed on Cloudflare Workers, tailored for Chinese users. 🌐🚀
 
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)、Socks5、http
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；本地代理支持Socks5/http，可选ECH-TLS、普通TLS、无TLS三种代理模式
 
 *   [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule) -
 
