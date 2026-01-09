@@ -27,7 +27,7 @@
 
 ## Python
 
-*   [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 antigravity 转换为 OpenAI 和 GEMINI API 接口
+*   [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 
 *   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
 
