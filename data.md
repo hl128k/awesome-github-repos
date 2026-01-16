@@ -26,6 +26,8 @@
 
 ## Python
 
+*   [linlee996/gemini-business](https://github.com/linlee996/gemini-business) - 集成了 google business 批量注册、Token 刷新、2API 的服务
+
 *   [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 
 *   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
@@ -333,8 +335,6 @@
 *   [makunet/maku-boot](https://github.com/makunet/maku-boot) - 采用SpringBoot3.5、SpringSecurity6.5、Mybatis-Plus、Vue3、Element-plus等技术开发的低代码开发平台，旨在为开发者提供一个简单、高效、可扩展的低代码开发平台。使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。
 
 *   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
-
-*   [FongMi/CatVodSpider](https://github.com/FongMi/CatVodSpider) -
 
 ## TypeScript
 
