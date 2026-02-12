@@ -214,7 +214,7 @@
 
 ## JavaScript
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly \[拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  \[网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 
 *   [inveta/peer-stream](https://github.com/inveta/peer-stream) - Lightweight WebRTC SDK  for UnrealEngine's PixelStreaming
 
@@ -370,7 +370,7 @@
 
 *   [xiongjian83/TvBox](https://github.com/xiongjian83/TvBox) - TvBox
 
-*   [li5bo5/TVBox](https://github.com/li5bo5/TVBox) -
+*   [li5bo5/TVBox](https://github.com/li5bo5/TVBox) - A collection of configurations and EPG management tools for TVBox and IPTV.
 
 *   [c120487/00](https://github.com/c120487/00) - Peter and his friends
 
