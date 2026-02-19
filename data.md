@@ -160,6 +160,8 @@
 
 *   [ifkid/Free-TVUrl](https://github.com/ifkid/Free-TVUrl) -
 
+*   [CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku) - 翻译姬：致力于小众领域的机器翻译
+
 ## TypeScript
 
 *   [chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop) - Linux DO Credit Virtual Goods Shop
@@ -176,7 +178,7 @@
 
 *   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
 
-*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+*   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
 *   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 
@@ -493,8 +495,6 @@
 *   [wertymarry/tvbox](https://github.com/wertymarry/tvbox) -
 
 *   [scovis/TVBox](https://github.com/scovis/TVBox) - 一个开源无广告的TVBox源，一个仓库全搞定。
-
-*   [Chenzhusheng01/tvbox](https://github.com/Chenzhusheng01/tvbox) - TV
 
 *   [newenergy2000/TVBox](https://github.com/newenergy2000/TVBox) -
 
