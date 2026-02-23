@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Swift](#swift)
@@ -25,7 +26,6 @@
 *   [Ruby](#ruby)
 *   [Vim Script](#vim-script)
 *   [C++](#c-1)
-*   [TeX](#tex)
 *   [Astro](#astro)
 *   [Tree-sitter Query](#tree-sitter-query)
 *   [VimL](#viml)
@@ -36,6 +36,14 @@
 *   [Makefile](#makefile)
 *   [Stylus](#stylus)
 *   [Julia](#julia)
+
+## TeX
+
+*   [little-book-of/algorithms](https://github.com/little-book-of/algorithms) - Bake a cake with care, follow steps the recipe gives, that’s an algorithm.
+
+*   [wuzhouhui/awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
+
+*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 
 ## miscellaneous
 
@@ -851,8 +859,6 @@
 
 *   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-
 ## HTML
 
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -1046,12 +1052,6 @@
 *   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 
 *   [liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
-
-## TeX
-
-*   [wuzhouhui/awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
-
-*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 
 ## Astro
 
