@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [Lua](#lua)
@@ -20,6 +20,20 @@
 *   [C++](#c-2)
 *   [PHP](#php)
 *   [XML](#xml)
+
+## Shell
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
+
+*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
+
+*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+
+*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
+
+*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 
 ## JavaScript
 
@@ -163,11 +177,9 @@
 
 *   [Anonym0usWork1221/Free-Proxies](https://github.com/Anonym0usWork1221/Free-Proxies) - Update free every 2 hours
 
-*   [chengtx809/ExaFree](https://github.com/chengtx809/ExaFree) - 一站式Exa注册机+号池轮询+API服务反代+多用户管理
-
 *   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
 
-*   [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天、一键NSFW、号池并发与自动负载均衡一体化。
+*   [chenyme/grok2api](https://github.com/chenyme/grok2api) - Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 
 *   [Tomiya233/grok2api](https://github.com/Tomiya233/grok2api) - 基于 FastAPI 重构的 Grok2API，适配最新的Web调用格式，支持流式对话、图像生成、图像编辑、联网搜索、视频生成、深度思考，支持号池并发调用和自动负载均衡。
 
@@ -342,18 +354,6 @@
 *   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 *   [zaigie/palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - \[中文|English|日本語]基于.sav存档解析和REST\&RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and REST\&RCON, visual interface management PalWorld dedicated server.
-
-## Shell
-
-*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
-
-*   [Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules) - HyperADRules，一个集合众家之长的、强力去广告的规则
-
-*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [eooce/xray-2go](https://github.com/eooce/xray-2go) - 最好用的一键xray-argo脚本，VPS一键四协议无交互安装脚本！
-
-*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 
 ## Java
 
