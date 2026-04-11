@@ -890,7 +890,7 @@
 
 *   [chunhuizhang/modern\_ai\_for\_beginners](https://github.com/chunhuizhang/modern_ai_for_beginners) - modern AI for beginners
 
-*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
