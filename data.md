@@ -57,6 +57,8 @@
 
 *   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
+*   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+
 *   [ne7359/tvurl](https://github.com/ne7359/tvurl) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 *   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
@@ -316,8 +318,6 @@
 *   [888huge/TV](https://github.com/888huge/TV) -
 
 *   [bluefriendCN/set](https://github.com/bluefriendCN/set) - onlineset
-
-*   [shiran588/m3u](https://github.com/shiran588/m3u) -
 
 ## Go
 
