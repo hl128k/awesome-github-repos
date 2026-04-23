@@ -213,6 +213,8 @@
 
 *   [zxj18/yun](https://github.com/zxj18/yun) -
 
+*   [xinyi1984/xytv](https://github.com/xinyi1984/xytv) -
+
 ## TypeScript
 
 *   [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
@@ -306,8 +308,6 @@
 *   [dalazhi/tvbox](https://github.com/dalazhi/tvbox) -
 
 *   [wertymarry/tvbox](https://github.com/wertymarry/tvbox) -
-
-*   [newenergy2000/TVBox](https://github.com/newenergy2000/TVBox) -
 
 *   [cqzho/hao](https://github.com/cqzho/hao) -
 
