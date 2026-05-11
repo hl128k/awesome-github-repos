@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -20,6 +21,10 @@
 *   [C++](#c-2)
 *   [PHP](#php)
 *   [XML](#xml)
+
+## CSS
+
+*   [MarshuMax/PromptFrame](https://github.com/MarshuMax/PromptFrame) -
 
 ## HTML
 
@@ -41,7 +46,7 @@
 
 ## TypeScript
 
-*   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 接口的图片生成与编辑工具
+*   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 
 *   [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
@@ -291,7 +296,7 @@
 
 *   [Kana3234/sukaka-gcli2api](https://github.com/Kana3234/sukaka-gcli2api) -
 
-*   [XyzenSun/llm-enhance](https://github.com/XyzenSun/llm-enhance) -
+*   [XyzenSun/llm-api-enhance](https://github.com/XyzenSun/llm-api-enhance) - 高度自定义的LLM API 增强器,支持模型与渠道级规则控制，PII过滤，非流式转伪流式，超时控制，SystemPrompt修改注入，多代理出口，自定义参数覆盖与请求头请求体修改
 
 *   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
 
@@ -330,8 +335,6 @@
 *   [fkaf1/fk](https://github.com/fkaf1/fk) -
 
 *   [888huge/TV](https://github.com/888huge/TV) -
-
-*   [bluefriendCN/set](https://github.com/bluefriendCN/set) - onlineset
 
 ## Go
 
