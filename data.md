@@ -24,6 +24,8 @@
 
 ## JavaScript
 
+*   [yelpeach/catvod](https://github.com/yelpeach/catvod) - 猫影视
+
 *   [catlog22/maestro-flow-one](https://github.com/catlog22/maestro-flow-one) - All Maestro workflow commands packaged as a single Claude Code skill — intent routing, decision gates, minimal closed-loop chains
 
 *   [tangrams/heightmapper](https://github.com/tangrams/heightmapper) - interactive heightmaps from terrain data
@@ -185,8 +187,6 @@
 *   [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) - List of public proxies, and checked to some domain like Google, Facebook, Twitter
 
 *   [Anonym0usWork1221/Free-Proxies](https://github.com/Anonym0usWork1221/Free-Proxies) - Update free every 2 hours
-
-*   [yukkcat/gemini-business2api](https://github.com/yukkcat/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
 
 *   [chenyme/grok2api](https://github.com/chenyme/grok2api) - Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 
