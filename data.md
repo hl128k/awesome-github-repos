@@ -163,7 +163,7 @@
 
 ## Shell
 
-*   [Wangnov/codex-app-mirror](https://github.com/Wangnov/codex-app-mirror) - Mirror official Codex desktop app installers into GitHub Releases.
+*   [Wangnov/codex-app-mirror](https://github.com/Wangnov/codex-app-mirror) - 原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连可达,附 macOS Sparkle 增量更新源 | Verbatim, verifiable mirror of the official Codex desktop app — probed every 15 min, China-reachable, with a Sparkle delta-update feed.
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
