@@ -109,7 +109,7 @@
 
 *   [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 
-*   [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Workflow orchestration CLI with MCP endpoint support and multi-agent dashboard
+*   [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more
 
 *   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 
